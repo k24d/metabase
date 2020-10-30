@@ -6756,7 +6756,7 @@ msgstr "{0}のビジュアライゼーションがありません"
 
 #: frontend/src/metabase/visualizations/lib/warnings.js:25
 msgid "\"{0}\" is an unaggregated field: if it has more than one value at a point on the x-axis, the values will be summed."
-msgstr "「{0}」は属性のないフィールドです。X軸上に複数の値がある場合、値は合計値となります。"
+msgstr "「{0}」は集約されていないフィールドです。X軸上に複数の値がある場合、値は合計値となります。"
 
 #: frontend/src/metabase/visualizations/lib/LineAreaBarRenderer.js:93
 msgid "This chart type requires at least 2 columns."
